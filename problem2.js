@@ -1,3 +1,5 @@
-import { areaOfCircle } from "./problem2Moduel";
+import { areaOfCircle } from "./problem2Moduel.js";
 
-console.log(areaOfCircle(5));
+const result = areaOfCircle(5);
+
+console.log(result);
